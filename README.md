@@ -1,6 +1,4 @@
 # Voyager Signal Recovery
-## Video Presentation link:
-https://drive.google.com/drive/folders/1fuRG0b_79ZQGQDeDOBeFIQQTNZ44rvLI?usp=drive_link
 
 ## Overview
 
@@ -320,5 +318,7 @@ The project requires the following Python packages:
 scipy
 matplotlib`
 
+## Video Presentation link:
+https://drive.google.com/drive/folders/1fuRG0b_79ZQGQDeDOBeFIQQTNZ44rvLI?usp=drive_link
 
 
